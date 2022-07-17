@@ -1,0 +1,9 @@
+body {
+    background-color: #DBF9FC;
+    }
+
+    .center{
+        margin: 0 auto;
+        width: 300px;
+        display: block;
+       }
